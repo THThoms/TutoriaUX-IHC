@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Reserva, consulta, modifica y cancela tutorías con los docentes de la FISEI.">
+  <meta name="theme-color" content="#7a1f2b">
+  <title>Tutoría UX</title>
+  <link rel="stylesheet" href="src/presentation/styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%237a1f2b'/%3E%3Ctext x='16' y='22' font-size='16' text-anchor='middle' fill='white' font-family='Arial'%3ET%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="saltar" href="#contenido">Saltar al contenido</a>
+
+  <header class="cabecera">
+    <div class="contenedor cabecera__interior">
+      <a class="marca" href="#/">
+        <span class="marca__logo" aria-hidden="true">T</span>
+        <span>Tutoría <strong>UX</strong><span class="marca__sub">FISEI · UTA</span></span>
+      </a>
+      <nav aria-label="Principal">
+        <ul class="menu">
+          <li><a href="#/" data-seccion="inicio">Inicio</a></li>
+          <li><a href="#/reservar" data-seccion="reservar">Reservar</a></li>
+          <li><a href="#/reservas" data-seccion="reservas">Mis reservas</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contenido" class="contenedor" tabindex="-1">
+    <noscript>
+      <p>Esta aplicación necesita JavaScript activado para funcionar.</p>
+    </noscript>
+  </main>
+
+  <footer class="pie">
+    <div class="contenedor">
+      <p>Tutoría UX · Proyecto académico de Interacción Humano-Computador · FISEI</p>
+    </div>
+  </footer>
+
+  <div id="anuncios" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

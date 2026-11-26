@@ -1,0 +1,15 @@
+{
+  "name": "tutoria-ux",
+  "version": "1.0.0",
+  "description": "Aplicación web de gestión de tutorías universitarias - Prueba práctica integradora IHC (FISEI-UTA)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/servidor.js 5500",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
