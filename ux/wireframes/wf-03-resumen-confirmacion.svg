@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 730 860" width="730" height="860" font-family="Arial, Helvetica, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">WF-03 — Paso 4: revisar, confirmar y confirmación</title>
+<desc id="d">Wireframe de baja fidelidad en móvil. Anotaciones numeradas a la derecha.</desc>
+<rect width="100%" height="100%" fill="#fafafa"/>
+<rect x="20" y="20" width="360" height="820" rx="26" fill="#fff" stroke="#3d3d45" stroke-width="2"/>
+<rect x="20" y="60" width="360" height="56" rx="0" fill="#f2f2f4" stroke="none" stroke-width="1.5"/>
+<rect x="36" y="72" width="32" height="32" rx="6" fill="#fff" stroke="#9a9aa3" stroke-width="1.5"/>
+<text x="52" y="93" font-size="14" fill="#3d3d45" font-weight="bold" text-anchor="middle">T</text>
+<text x="78" y="86" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">Tutoría UX</text>
+<text x="78" y="102" font-size="10" fill="#6b6b75" font-weight="normal" text-anchor="start">FISEI · UTA</text>
+<text x="300" y="93" font-size="12" fill="#2b2b30" font-weight="normal" text-anchor="start">☰ Menú</text>
+<text x="36" y="148" font-size="18" fill="#2b2b30" font-weight="bold" text-anchor="start">Reservar una tutoría</text>
+<circle cx="70" cy="178" r="12" fill="#c9c9cf" stroke="#3d3d45" stroke-width="1.5"/>
+<text x="70" y="182" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">✓</text>
+<line x1="82" y1="178" x2="145" y2="178" stroke="#9a9aa3" stroke-width="1.5"/>
+<circle cx="157" cy="178" r="12" fill="#c9c9cf" stroke="#3d3d45" stroke-width="1.5"/>
+<text x="157" y="182" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">✓</text>
+<line x1="169" y1="178" x2="232" y2="178" stroke="#9a9aa3" stroke-width="1.5"/>
+<circle cx="244" cy="178" r="12" fill="#c9c9cf" stroke="#3d3d45" stroke-width="1.5"/>
+<text x="244" y="182" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">✓</text>
+<line x1="256" y1="178" x2="319" y2="178" stroke="#9a9aa3" stroke-width="1.5"/>
+<circle cx="331" cy="178" r="12" fill="#3d3d45" stroke="#3d3d45" stroke-width="1.5"/>
+<text x="331" y="182" font-size="11" fill="#fff" font-weight="bold" text-anchor="middle">4</text>
+<text x="200" y="210" font-size="12" fill="#2b2b30" font-weight="bold" text-anchor="middle">Paso 4 de 4</text>
+<text x="36" y="248" font-size="15" fill="#2b2b30" font-weight="bold" text-anchor="start">Revisa y confirma</text>
+<text x="36" y="280" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">Asignatura</text>
+<text x="36" y="298" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">Interacción Humano-Computador</text>
+<text x="330" y="292" font-size="12" fill="#3d3d45" font-weight="normal" text-anchor="middle">Cambiar</text>
+<line x1="36" y1="308" x2="364" y2="308" stroke="#e0e0e4" stroke-width="1"/>
+<text x="36" y="326" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">Docente</text>
+<text x="36" y="344" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">Ing. Andrea Villacís</text>
+<text x="330" y="338" font-size="12" fill="#3d3d45" font-weight="normal" text-anchor="middle">Cambiar</text>
+<line x1="36" y1="354" x2="364" y2="354" stroke="#e0e0e4" stroke-width="1"/>
+<text x="36" y="372" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">Modalidad</text>
+<text x="36" y="390" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">Presencial</text>
+<text x="330" y="384" font-size="12" fill="#3d3d45" font-weight="normal" text-anchor="middle">Cambiar</text>
+<line x1="36" y1="400" x2="364" y2="400" stroke="#e0e0e4" stroke-width="1"/>
+<text x="36" y="418" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">Fecha</text>
+<text x="36" y="436" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">miércoles 9 de diciembre</text>
+<text x="330" y="430" font-size="12" fill="#3d3d45" font-weight="normal" text-anchor="middle">Cambiar</text>
+<line x1="36" y1="446" x2="364" y2="446" stroke="#e0e0e4" stroke-width="1"/>
+<text x="36" y="464" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">Hora</text>
+<text x="36" y="482" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">14:00 – 14:45</text>
+<text x="330" y="476" font-size="12" fill="#3d3d45" font-weight="normal" text-anchor="middle">Cambiar</text>
+<line x1="36" y1="492" x2="364" y2="492" stroke="#e0e0e4" stroke-width="1"/>
+<text x="36" y="510" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">Correo</text>
+<text x="36" y="528" font-size="13" fill="#2b2b30" font-weight="bold" text-anchor="start">mperez1234@uta.edu.ec</text>
+<text x="330" y="522" font-size="12" fill="#3d3d45" font-weight="normal" text-anchor="middle">Cambiar</text>
+<line x1="36" y1="538" x2="364" y2="538" stroke="#e0e0e4" stroke-width="1"/>
+<circle cx="372" cy="292" r="9" fill="#fff3b0" stroke="#8a6d00" stroke-width="1.5"/>
+<text x="372" y="296" font-size="10" fill="#5a4700" font-weight="bold" text-anchor="middle">1</text>
+<rect x="36" y="548" width="328" height="44" rx="8" fill="#3d3d45" stroke="#3d3d45" stroke-width="1.5"/>
+<text x="200.0" y="575" font-size="13" fill="#fff" font-weight="bold" text-anchor="middle">Confirmar reserva</text>
+<circle cx="372" cy="570" r="9" fill="#fff3b0" stroke="#8a6d00" stroke-width="1.5"/>
+<text x="372" y="574" font-size="10" fill="#5a4700" font-weight="bold" text-anchor="middle">2</text>
+<rect x="36" y="610" width="328" height="120" rx="6" fill="#fff" stroke="#3d3d45" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="48" y="634" font-size="11" fill="#6b6b75" font-weight="bold" text-anchor="start">Pantalla siguiente (confirmación):</text>
+<circle cx="62" cy="664" r="12" fill="#fff" stroke="#3d3d45" stroke-width="1.5"/>
+<text x="62" y="669" font-size="13" fill="#3d3d45" font-weight="bold" text-anchor="middle">✓</text>
+<text x="84" y="662" font-size="14" fill="#2b2b30" font-weight="bold" text-anchor="start">¡Tutoría reservada!</text>
+<text x="84" y="680" font-size="11" fill="#2b2b30" font-weight="normal" text-anchor="start">Código TUT-7KQ2M · Estado: Confirmada</text>
+<text x="48" y="712" font-size="11" fill="#6b6b75" font-weight="normal" text-anchor="start">[ Modificar ]  [ Cancelar reserva ]  [ Mis reservas ]</text>
+<circle cx="372" cy="668" r="9" fill="#fff3b0" stroke="#8a6d00" stroke-width="1.5"/>
+<text x="372" y="672" font-size="10" fill="#5a4700" font-weight="bold" text-anchor="middle">3</text>
+<text x="410" y="50" font-size="16" font-weight="bold" fill="#2b2b30">WF-03 · Paso 4: revisar, confirmar y confirmación</text>
+<text x="410" y="72" font-size="12" fill="#6b6b75">Baja fidelidad · móvil 360 px · mobile first</text>
+<circle cx="419" cy="106" r="9" fill="#fff3b0" stroke="#8a6d00" stroke-width="1.5"/>
+<text x="419" y="110" font-size="10" font-weight="bold" fill="#5a4700" text-anchor="middle">1</text>
+<text x="436" y="110" font-size="12" fill="#2b2b30">Resumen en lista de definición. Cada dato</text>
+<text x="436" y="126" font-size="12" fill="#2b2b30">tiene “Cambiar”, que lleva a su paso sin</text>
+<text x="436" y="142" font-size="12" fill="#2b2b30">perder lo demás.</text>
+<circle cx="419" cy="172" r="9" fill="#fff3b0" stroke="#8a6d00" stroke-width="1.5"/>
+<text x="419" y="176" font-size="10" font-weight="bold" fill="#5a4700" text-anchor="middle">2</text>
+<text x="436" y="176" font-size="12" fill="#2b2b30">Botón con verbo explícito “Confirmar</text>
+<text x="436" y="192" font-size="12" fill="#2b2b30">reserva” (no “Aceptar”). Si el horario se</text>
+<text x="436" y="208" font-size="12" fill="#2b2b30">ocupó mientras tanto, vuelve al paso 2</text>
+<text x="436" y="224" font-size="12" fill="#2b2b30">con un mensaje.</text>
+<circle cx="419" cy="254" r="9" fill="#fff3b0" stroke="#8a6d00" stroke-width="1.5"/>
+<text x="419" y="258" font-size="10" font-weight="bold" fill="#5a4700" text-anchor="middle">3</text>
+<text x="436" y="258" font-size="12" fill="#2b2b30">Confirmación visible y anunciada</text>
+<text x="436" y="274" font-size="12" fill="#2b2b30">(role=status): código para consultar,</text>
+<text x="436" y="290" font-size="12" fill="#2b2b30">estado y acciones siguientes.</text>
+</svg>
