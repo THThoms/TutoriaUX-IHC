@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 560" width="1100" height="560" font-family="Arial, Helvetica, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Curva emocional del proceso de reserva de tutorías</title>
+<desc id="d">Compara la emoción del estudiante en 9 etapas: proceso actual sin sistema (línea punteada) y con Tutoría UX v1 (línea continua). Los puntos más bajos son elegir fecha y hora y corregir un error.</desc>
+<rect width="1100" height="560" fill="#ffffff"/>
+<text x="40" y="40" font-size="20" font-weight="bold" fill="#1d1d1f">Curva emocional · Reserva de tutoría</text>
+<text x="40" y="62" font-size="13" fill="#4a4a52">Escala de -2 (frustración) a +2 (satisfacción). MC = momento crítico, TP = touchpoint.</text>
+<rect x="413.2" y="80" width="96" height="330" fill="#fff4dc" opacity="0.7"/>
+<rect x="754.5" y="80" width="96" height="330" fill="#fff4dc" opacity="0.7"/>
+<rect x="868.2" y="80" width="96" height="330" fill="#fff4dc" opacity="0.7"/>
+<line x1="120" y1="90.0" x2="1030" y2="90.0" stroke="#e2e2e6" stroke-width="1"/>
+<text x="60" y="95.0" font-size="16">😀</text><text x="90" y="95.0" font-size="12" fill="#4a4a52">+2</text>
+<line x1="120" y1="167.5" x2="1030" y2="167.5" stroke="#e2e2e6" stroke-width="1"/>
+<text x="60" y="172.5" font-size="16">🙂</text><text x="90" y="172.5" font-size="12" fill="#4a4a52">+1</text>
+<line x1="120" y1="245.0" x2="1030" y2="245.0" stroke="#8a8a94" stroke-width="1.5"/>
+<text x="60" y="250.0" font-size="16">😐</text><text x="90" y="250.0" font-size="12" fill="#4a4a52">0</text>
+<line x1="120" y1="322.5" x2="1030" y2="322.5" stroke="#e2e2e6" stroke-width="1"/>
+<text x="60" y="327.5" font-size="16">🙁</text><text x="90" y="327.5" font-size="12" fill="#4a4a52">-1</text>
+<line x1="120" y1="400.0" x2="1030" y2="400.0" stroke="#e2e2e6" stroke-width="1"/>
+<text x="60" y="405.0" font-size="16">😣</text><text x="90" y="405.0" font-size="12" fill="#4a4a52">-2</text>
+<path d="M120.0,283.8 L233.8,361.2 L347.5,283.8 L461.2,400.0 L575.0,283.8 L688.8,384.5 L802.5,307.0 L916.2,361.2 L1030.0,167.5" fill="none" stroke="#8a8a94" stroke-width="3" stroke-dasharray="8 6"/>
+<path d="M120.0,283.8 L233.8,183.0 L347.5,167.5 L461.2,291.5 L575.0,206.2 L688.8,245.0 L802.5,105.5 L916.2,198.5 L1030.0,128.8" fill="none" stroke="#7a1f2b" stroke-width="3.5"/>
+<rect x="115.0" y="278.8" width="10" height="10" fill="#8a8a94"/>
+<rect x="228.8" y="356.2" width="10" height="10" fill="#8a8a94"/>
+<rect x="342.5" y="278.8" width="10" height="10" fill="#8a8a94"/>
+<rect x="456.2" y="395.0" width="10" height="10" fill="#8a8a94"/>
+<rect x="570.0" y="278.8" width="10" height="10" fill="#8a8a94"/>
+<rect x="683.8" y="379.5" width="10" height="10" fill="#8a8a94"/>
+<rect x="797.5" y="302.0" width="10" height="10" fill="#8a8a94"/>
+<rect x="911.2" y="356.2" width="10" height="10" fill="#8a8a94"/>
+<rect x="1025.0" y="162.5" width="10" height="10" fill="#8a8a94"/>
+<circle cx="120.0" cy="283.8" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="233.8" cy="183.0" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="347.5" cy="167.5" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="461.2" cy="291.5" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="575.0" cy="206.2" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="688.8" cy="245.0" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="802.5" cy="105.5" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="916.2" cy="198.5" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<circle cx="1030.0" cy="128.8" r="6.5" fill="#7a1f2b" stroke="#fff" stroke-width="2"/>
+<text x="120.0" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Necesita</text>
+<text x="120.0" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">ayuda</text>
+<text x="120.0" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP1</text>
+<text x="233.8" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Busca docente</text>
+<text x="233.8" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">y horario</text>
+<text x="233.8" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP2</text>
+<text x="347.5" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Elige</text>
+<text x="347.5" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">docente</text>
+<text x="347.5" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP3</text>
+<text x="461.2" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Elige fecha</text>
+<text x="461.2" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">y hora</text>
+<text x="461.2" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP3 · MC1</text>
+<text x="575.0" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Escribe</text>
+<text x="575.0" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">sus datos</text>
+<text x="575.0" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP4</text>
+<text x="688.8" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Error en</text>
+<text x="688.8" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">un dato</text>
+<text x="688.8" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP4</text>
+<text x="802.5" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Confirma</text>
+<text x="802.5" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">y ve código</text>
+<text x="802.5" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP4 · MC2</text>
+<text x="916.2" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Necesita</text>
+<text x="916.2" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">cambiar/cancelar</text>
+<text x="916.2" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">TP5 · MC2</text>
+<text x="1030.0" y="434" font-size="12" text-anchor="middle" fill="#1d1d1f">Asiste a la</text>
+<text x="1030.0" y="449" font-size="12" text-anchor="middle" fill="#1d1d1f">tutoría</text>
+<text x="1030.0" y="470" font-size="11" text-anchor="middle" fill="#7a4b00" font-weight="bold">Después</text>
+<line x1="120" y1="510" x2="160" y2="510" stroke="#8a8a94" stroke-width="3" stroke-dasharray="8 6"/><text x="170" y="514" font-size="13" fill="#1d1d1f">Proceso actual (pasillo, correo, WhatsApp)</text>
+<line x1="500" y1="510" x2="540" y2="510" stroke="#7a1f2b" stroke-width="3.5"/><text x="550" y="514" font-size="13" fill="#1d1d1f">Con Tutoría UX v1 (hipótesis a validar con P01–P02)</text>
+<rect x="900" y="501" width="24" height="16" fill="#fff4dc"/><text x="932" y="514" font-size="13" fill="#1d1d1f">Momento crítico</text>
+</svg>

@@ -1,0 +1,3 @@
+# Una fila por participante y tarea. Llenar SOLO con datos reales de las sesiones. Borrar esta línea de comentario es opcional.
+# resultado: Exito | ExitoConAyuda | Fallo   ·   seq: 1 a 7   ·   version: v1 | v2   ·   tiempo_s en segundos
+participante,version,dispositivo,tarea,tiempo_s,resultado,errores,ayudas,seq
